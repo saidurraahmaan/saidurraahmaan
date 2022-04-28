@@ -14,9 +14,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **saidur.cityu.cse@gmail.com**
+- 📫 Reach me at **saidur.cityu.cse@gmail.com**
 
-- ⚡ Fun fact **I like to watch football**
+- ⚡ Fun fact **Owww**
 
 ## 🚀 Languages and Tools:
 
