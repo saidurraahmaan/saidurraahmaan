@@ -1,7 +1,7 @@
 <!-- <div style="text-align:center"><img width="auto"   src="https://www.pngkit.com/png/full/359-3598397_png-file-programmer-developer-icon-png.png" height="175px"/> </div>
  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saidur Rahman</h1>
-<h3 align="center">I'm a passionate Competetive Programmer</h3>
+<h3 align="center">I'm a passionate Programmer</h3>
 
 
 ## 🙋‍♂️ About Me
