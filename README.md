@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Full Stack Software Engineer on [Spring Rain](https://springrain.io/)**
+- 🔭 I’m currently working as a **Full Stack Software Engineer at [Spring Rain](https://springrain.io/)**
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
