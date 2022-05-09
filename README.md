@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Vanquishers](https://github.com/The-Vanquishers/vqs-web-app)**
+- 🔭 I’m currently working as a **Full Stack Software Engineer on [Spring Rain](https://springrain.io/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
 <!-- - 👯 I’m looking to work as a **Software Engineer** -->
 
