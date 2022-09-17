@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **saidur.cityu.cse@gmail.com**
 
-- ⚡ Fun fact **Owww**
+- ⚡ Hobby **Competitive Programming **
 
 ## 🚀 Languages and Tools:
 
