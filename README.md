@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯 Currently working as a  **Full Stack Software Engineer at [Dynamic Solution Innovators Ltd.](https://springrain.io/)**
+- 👯 Currently working as a  **Junior Software Engineer at [Dynamic Solution Innovators Ltd.](https://springrain.io/)**
 
 - 🔭 Former **Full Stack Software Engineer at [Spring Rain](https://www.dsinnovators.com/)**
 
