@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯 Currently working as a  **Junior Software Engineer at [Dynamic Solution Innovators Ltd.](https://springrain.io/)**
+<!-- - 👯 Currently working as a  **Junior Software Engineer at [Dynamic Solution Innovators Ltd.](https://springrain.io/)** -->
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
