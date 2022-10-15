@@ -22,7 +22,7 @@
 - 🏢 Working at **[Dynamic Solution Innovators Ltd](https://www.dsinnovators.com/)** as a **Junior Software Engineer**.
 - 👨‍💻 Writing `C#` `SQL`  `HTML` `CSS` `JavaScript` `JQuery`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/saidur-rahman-36a6b5194/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/saidur-rahman-36a6b5194/) -->.
-- 📚 Currently learning about **clean architecture**, **Design Pattern**.
+- 📚 Currently learning about **Clean Architecture**, **Design Pattern**.
 <!-- - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally. -->
 - 👯 Looking to collaborate on **.NET projects**.
 
