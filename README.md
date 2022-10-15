@@ -13,10 +13,11 @@
 <!-- - 👯 I’m looking to work as a **Software Engineer** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- ⚡ Hobby **Competitive Programming **
 
 - 📫 Reach me at **saidur.cityu.cse@gmail.com**
 
-- ⚡ Hobby **Competitive Programming **
+
 
 #### What I'm doing?
 - 🏢 Working at **[Dynamic Solution Innovators Ltd](https://www.dsinnovators.com/)** as a **Junior Software Engineer**.
