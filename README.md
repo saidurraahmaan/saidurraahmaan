@@ -16,7 +16,7 @@
 - ⚡ Hobby **Competitive Programming **
 
 - 📫 Reach me at **saidur.cityu.cse@gmail.com**
-- 🛠️ My **[Portfolio]([https://saidur-rahman.netlify.app/]).
+- 🛠️ My **[Portfolio](https://saidur-rahman.netlify.app/)**.
 
 
 
