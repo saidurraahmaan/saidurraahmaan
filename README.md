@@ -14,27 +14,27 @@
 
 ## What skills do I have?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** `🌌 JavaScript` • `🧚🏻‍♂️ HTML` • `💮 CSS`
+  - **📜 Languages:** • `🌌 JavaScript` • `🧚🏻‍♂️ HTML` • `💮 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:**  `❄️ React.js`  • `🐙 .Net Core MVC`
+    - **🌐 Web:** • `❄️ React.js` • `🐙 .Net Core MVC`
 
 - 🗄️ **Back-end:**
-  - **📜 Languages:** `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
-  - **🔭 Frameworks:** `📰 Express.js` • `🗼 ASP.NET Core Web API` • `⛲ .NET 6` • `🐧 Entity Framework`
-  - **💾 Databases:** `🎍 PostgreSQL` • `🍀 MongoDB` 
-  - **🎛 System architecture:** ` 🎃 Monolithic` • `📮 Microservices`
-  - **🔌 Communication protocols:** `🃏 REST` • `💉 SignalR` • `💬 RabbitMQ` • `📲  TCP/IP` • `🔌 Web Socket`
+  - **📜 Languages:** • `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
+  - **💾 Databases:** • `🎍 PostgreSQL` • `🍀 MongoDB`
+  - **🎛 System architecture:** • ` 🎃 Monolithic` • `📮 Microservices`
+  - **🔭 Frameworks:** • `📰 Express.js` • `🗼 ASP.NET Core Web API` • `⛲ .NET 6` • `🐧 Entity Framework`
+  - **🔌 Communication protocols:** • `🃏 REST` • `💉 SignalR` • `💬 RabbitMQ` • `📲  TCP/IP` • `🔌 Web Socket`
 - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** `💼 Git` 
-  - **🗃 Project management:** `🏢 Jira Scrum Boards` 
-  - **🗂 CI/CD:** `🔨 Github Actions` • ` 🔩  Github Pages`
+  - **📁 Code repository:** • `💼 Git` 
+  - **🗃 Project management:** • `🏢 Jira Scrum Boards` 
+  - **🗂 CI/CD:** • `🔨 Github Actions` • `🔩  Github Pages`
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:** `🌴 MVC` • `💬 Message Queuing`
-  - **🗜 Principles:** `❗ DRY` • ` 🔩 ACID` • `💪  SOLID`
+  - **⚒ Patterns:** • `🌴 MVC` • `💬 Message Queuing`
+  - **🗜 Principles:** • `❗ DRY` • `🔩 ACID` • `💪 SOLID`
 - 🧙‍♂️ **Miscellaneous:**
-  `🐳 Docker` • `🌐 Microsoft Azure`
+  • `🐳 Docker` • `🌐 Microsoft Azure`
 - **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=15></a> • <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=15></a> • <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=15></a>
+ • <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=15></a> • <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=15></a> • <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=15></a>
 
 
 ## My GitHub Stats
