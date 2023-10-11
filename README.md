@@ -14,7 +14,7 @@
 
 ## What skills do I have?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** `🌌 JavaScript` • `🧚🏻‍♂️ HTML` • `💮  CSS`
+  - **📜 Languages:** `🌌 JavaScript` • `🧚🏻‍♂️ HTML` • `💮 CSS`
   - **🔬 Frameworks:**  
     - **🌐 Web:**  `❄️ React.js`  • `🐙 .Net Core MVC`
 
@@ -27,9 +27,9 @@
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** `💼 Git` 
   - **🗃 Project management:** `🏢 Jira Scrum Boards` 
-  - **🗂 CI/CD:** `🔨 Github Actions` • ` 🔩  Github Pages
+  - **🗂 CI/CD:** `🔨 Github Actions` • ` 🔩  Github Pages`
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:** `🌴 MVC • `💬 Message Queuing`
+  - **⚒ Patterns:** `🌴 MVC` • `💬 Message Queuing`
   - **🗜 Principles:** `❗ DRY` • ` 🔩 ACID` • `💪  SOLID`
 - 🧙‍♂️ **Miscellaneous:**
   `🐳 Docker` • `🌐 Microsoft Azure`
