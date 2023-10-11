@@ -16,11 +16,11 @@
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:**  • [ReactJs](https://react.dev/)  • [ASP.NET Core MVC](https://dotnet.microsoft.com/en-us/learn/aspnet) 
+    - **🌐 Web:**  • [React.js](https://react.dev/)  • [ASP.NET Core MVC](https://dotnet.microsoft.com/en-us/learn/aspnet) 
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
-  - **🔭 Frameworks:** • [ExpressJs](https://expressjs.com/)  • [ASP.NET Core Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+  - **🔭 Frameworks:** • [Express.js](https://expressjs.com/)  • [ASP.NET Core Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [Entity Framework](https://docs.microsoft.com/en-us/ef/)
   - **💾 Databases:** • [PostgreSQL](https://www.postgresql.org/) • [MongoDB](https://www.mongodb.com/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
