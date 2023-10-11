@@ -49,7 +49,7 @@
 # What companies have I worked for?
 - [Dynamic Solution Innovators](https://www.dsinnovators.com/)
 - [Spring Rain Private Ltd](https://springrain.io/)
-
+##
 🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
 
 📫 Let's connect and learn from each other. Feel free to reach out, whether it's for collaboration, questions, or just to chat about all things tech!
