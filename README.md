@@ -1,5 +1,3 @@
-## About Me
-
 <h1 align="center">👋 Hi, I'm Saidur Rahman</h1>
 
 ## Who am I?
@@ -37,18 +35,18 @@
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
-<!--Github Stats-->
+
 ## My GitHub Stats
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/saidurraahmaan.svg)](https://user-badge.committers.top/bangladesh_public/saidurraahmaan)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saidurraahmaan&theme=swift&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=saidurraahmaan&show_icons=true&theme=swift&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidurraahmaan&layout=compact&show_icons=true&theme=swift&hide_border=true)
 ![](https://github-profile-trophy.vercel.app/?username=saidurraahmaan&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 
 # What companies have I worked for?
-- [Dynamic Solution Innovators](https://www.dsinnovators.com/)
-- [Spring Rain Private Ltd](https://springrain.io/)
+- [Dynamic Solution Innovators Ltd.](https://www.dsinnovators.com/)
+- [Spring Rain Private Ltd.](https://springrain.io/)
+
 ##
 🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
 
