@@ -2,7 +2,7 @@
 
 ## Who am I?
 - Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 4 years of **hands-on** coding experience and 1.5 years of **industry** standard development experience.
+- Have 4 years of **hands-on** coding experience and 1.5 years of **industry** level development experience.
 - Developed products for **fintech** and **logistics** business domains in startups and enterprises.
 - Developed  **cross-platform** web apps along with **monolithic** and **RESTful** APIs.
 
@@ -50,7 +50,7 @@
 - [Spring Rain Private Ltd.](https://springrain.io/)
 
 ##
-🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
+🚀 When I'm not coding, you can find me exploring the **latest tech trends**, trying to contribute **open-source projects** and **stackoverflow**. 
 
 📫 Let's connect and learn from each other. Feel free to reach out, whether it's for collaboration, questions, or just to chat about all things tech!
 
