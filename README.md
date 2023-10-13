@@ -47,7 +47,7 @@
   </p>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="47%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidurraahmaan&theme=gotham&layout=compact"width="47%"/> 
 </p>
 
 <p align="center">
