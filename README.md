@@ -2,7 +2,7 @@
 
 ## Who am I?
 - Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 5 years of **hands-on** programming experience and 1.5 years of **industry** level development experience.
+- Have almost 2 years of **hands-on** programming experience.
 - Developed products for **fintech** and **logistics** business domains in startups and enterprises.
 - Developed  **cross-platform** web apps along with **monolithic** and **RESTful** APIs.
 
