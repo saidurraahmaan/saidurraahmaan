@@ -7,8 +7,8 @@
 - Developed  **cross-platform** web apps along with **monolithic** and **RESTful** APIs.
 
 ## What do I do?
-- 👨‍💻 Write `C#` `JavaScript` `SQL`  `HTML` `CSS`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/saidur-raahmaan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=15></a> <!--[LinkedIn](https://www.linkedin.com/in/saidur-raahmaan)--> **JavaScript** and **.NET community**.
+- 👨‍💻 Write `Java` `JavaScript` `C#` `SQL`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/saidur-raahmaan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=15></a> <!--[LinkedIn](https://www.linkedin.com/in/saidur-raahmaan)--> **JavaScript** and **Java community**.
 - 📚 Learning about **clean architecture**, **design patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**.
 
 
@@ -16,14 +16,14 @@
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🌌 JavaScript` • `🧚🏻‍♂️ HTML` • `💮 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • `❄️ React.js` • `🐙 .Net Core MVC`
+    - **🌐 Web:** • `❄️ React.js` • `🐙 Thymeleaf`
 
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
+  - **📜 Languages:** • `☕ Java` • `👨‍🔧 JavaScript` • `🧙🏻‍♂️ C#` 
   - **💾 Databases:** • `🎍 PostgreSQL` • `🍀 MongoDB`
   - **🎛 System architecture:** • ` 🎃 Monolithic` • `📮 Microservices`
-  - **🔭 Frameworks:** • `📰 Express.js` • `🗼 ASP.NET Core Web API` • `⛲ .NET 6` • `🐧 Entity Framework`
-  - **🔌 Communication protocols:** • `🃏 REST` • `💉 SignalR` • `💬 RabbitMQ` • `📲  TCP/IP` • `🔌 Web Socket`
+  - **🔭 Frameworks:**  • `⛲ Spring Boot` • `📰 Express.js` • `🗼 ASP.NET Core`
+  - **🔌 Communication protocols:** • `🃏 REST`  • `💬 RabbitMQ` • `📲  TCP/IP` • `🔌 Web Socket`
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • `💼 Git` 
   - **🗃 Project management:** • `🏢 Jira Scrum Boards` 
@@ -33,8 +33,6 @@
   - **🗜 Principles:** • `❗ DRY` • `🔩 ACID` • `💪 SOLID`
 - 🧙‍♂️ **Miscellaneous:**
   • `🐳 Docker` • `🌐 Microsoft Azure`
-- **🏗️ Code editors:**
- • <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=15></a> • <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=15></a> • <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=15></a>
 
 
 ## My GitHub Stats
